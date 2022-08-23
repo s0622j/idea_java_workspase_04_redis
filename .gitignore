@@ -1,0 +1,3 @@
+# Project exclude paths
+/A01_jedis_demo/target/
+/.idea
